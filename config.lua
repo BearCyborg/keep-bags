@@ -24,7 +24,7 @@ Config.Backpacks                          = {
           size = 100000,
           cloth = {
                male = {
-                    ["bag"] = { item = 36, texture = 0 }
+                    ["bag"] = { item = 124, texture = 0 }
                },
                female = {
                     ["bag"] = { item = 85, texture = 13 }
@@ -39,7 +39,7 @@ Config.Backpacks                          = {
           size = 200000,
           cloth = {
                male = {
-                    ["bag"] = { item = 36, texture = 1 }
+                    ["bag"] = { item = 125, texture = 0 }
                },
                female = {
                     ["bag"] = { item = 85, texture = 13 }
@@ -54,7 +54,7 @@ Config.Backpacks                          = {
           size = 300000,
           cloth = {
                male = {
-                    ["bag"] = { item = 36, texture = 3 }
+                    ["bag"] = { item = 123, texture = 1 }
                },
                female = {
                     ["bag"] = { item = 85, texture = 13 }
@@ -66,7 +66,7 @@ Config.Backpacks                          = {
           size = 200000,
           cloth = {
                male = {
-                    ["bag"] = { item = 36, texture = 3 }
+                    ["bag"] = { item = 122, texture = 1 }
                },
                female = {
                     ["bag"] = { item = 85, texture = 13 }
@@ -78,7 +78,7 @@ Config.Backpacks                          = {
           size = 200000,
           cloth = {
                male = {
-                    ["bag"] = { item = 69, texture = 0 }
+                    ["bag"] = { item = 125, texture = 2 }
                },
                female = {
                     ["bag"] = { item = 85, texture = 13 }
@@ -90,7 +90,7 @@ Config.Backpacks                          = {
           size = 200000,
           cloth = {
                male = {
-                    ["bag"] = { item = 69, texture = 0 }
+                    ["bag"] = { item = 122, texture = 2 }
                },
                female = {
                     ["bag"] = { item = 85, texture = 13 }
@@ -102,7 +102,7 @@ Config.Backpacks                          = {
           size = 200000,
           cloth = {
                male = {
-                    ["bag"] = { item = 69, texture = 0 }
+                    ["bag"] = { item = 122, texture = 3 }
                },
                female = {
                     ["bag"] = { item = 85, texture = 13 }
@@ -114,7 +114,7 @@ Config.Backpacks                          = {
           size = 200000,
           cloth = {
                male = {
-                    ["bag"] = { item = 82, texture = 4 }
+                    ["bag"] = { item = 119, texture = 5 }
                },
                female = {
                     ["accessory"] = { item = 123, texture = 0 }
@@ -126,7 +126,7 @@ Config.Backpacks                          = {
           size = 400000,
           cloth = {
                male = {
-                    ["bag"] = { item = 82, texture = 0 }
+                    ["bag"] = { item = 116, texture = 1 }
                },
                female = {
                     ["bag"] = { item = 85, texture = 13 }
@@ -152,7 +152,7 @@ Config.Backpacks                          = {
           size = 200000,
           cloth = {
                male = {
-                    ["accessory"] = { item = 146, texture = 0 }
+                    ["accessory"] = { item = 144, texture = 0 }
                },
                female = {
                     ["accessory"] = { item = 123, texture = 0 }
@@ -167,7 +167,7 @@ Config.Backpacks                          = {
           size = 400000,
           cloth = {
                male = {
-                    ["accessory"] = { item = 147, texture = 0 }
+                    ["accessory"] = { item = 143, texture = 0 }
                },
                female = {
                     ["accessory"] = { item = 123, texture = 0 }
